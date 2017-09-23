@@ -1,0 +1,7 @@
+.orig x3050
+LEA R0, C
+LDW R0, R0, #0
+JMP R0
+
+C .FILL x3071
+.END
